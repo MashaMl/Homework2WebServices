@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <candies>
+        <price currency="uan">30</price>
+        <taste>blueberry</taste>
+        <quantity>20</quantity>
+    </candies>
+    <candies>
+        <price currency="uan">100</price>
+        <taste>chocolate</taste>
+        <quantity>15</quantity>
+    </candies>
+</root>
